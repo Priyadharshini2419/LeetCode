@@ -5,7 +5,7 @@ class Solution {
             set.add(nums[i]);
         }
         int index = 0;
-        for(Integer val : set){
+        for(int val : set){
             nums[index] = val;
             index++;
         }
