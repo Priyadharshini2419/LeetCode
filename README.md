@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Priyadharshini2419/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Priyadharshini2419/LeetCode/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/Priyadharshini2419/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Priyadharshini2419/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0344-reverse-string) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyadharshini2419/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Priyadharshini2419/LeetCode/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/Priyadharshini2419/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Priyadharshini2419/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
