@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyadharshini2419/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Priyadharshini2419/LeetCode/tree/master/0804-unique-morse-code-words) |
 ## Sorting
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
