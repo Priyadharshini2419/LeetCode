@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Priyadharshini2419/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyadharshini2419/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0189-rotate-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyadharshini2419/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
