@@ -1,9 +1,27 @@
-import java.math.BigInteger;
-
 class Solution {
     public String multiply(String num1, String num2) {
-        BigInteger n1 = new BigInteger(num1);
-        BigInteger n2 = new BigInteger(num2);
-        return n1.multiply(n2).toString();
+        if(num1.equals("0")||num2.equals("0")){
+            return "0";
+        }
+        int n=num1.length();
+        int m=num2.length();
+         int[]r=new int[n+m];
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+                int mul=(num1.charAt(i)-'0')*(num2.charAt(j)-'0');
+                int sum=mul+r[i+j+1];
+                r[i+j+1]=sum%10;
+                r[i+j]+=sum/10;
+            }
+        }
+          StringBuilder sb = new StringBuilder();
+        for (int num : r) {
+            if (!(sb.length() == 0 && num == 0)) {
+                sb.append(num);
+            }
+        }
+
+        return sb.toString();
+
     }
 }
