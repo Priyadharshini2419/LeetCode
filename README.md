@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyadharshini2419/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Priyadharshini2419/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Priyadharshini2419/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0189-rotate-array) |
 ## Sliding Window
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
