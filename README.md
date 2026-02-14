@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Priyadharshini2419/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Priyadharshini2419/LeetCode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Priyadharshini2419/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/Priyadharshini2419/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyadharshini2419/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priyadharshini2419/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0344-reverse-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Priyadharshini2419/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Priyadharshini2419/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/Priyadharshini2419/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyadharshini2419/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
