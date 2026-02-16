@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Priyadharshini2419/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Priyadharshini2419/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Priyadharshini2419/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyadharshini2419/LeetCode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0402-remove-k-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0190-reverse-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
