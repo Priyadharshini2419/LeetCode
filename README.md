@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/Priyadharshini2419/LeetCode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting Sort
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Priyadharshini2419/LeetCode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyadharshini2419/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
