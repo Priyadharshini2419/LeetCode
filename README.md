@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Priyadharshini2419/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Priyadharshini2419/LeetCode/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/Priyadharshini2419/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Priyadharshini2419/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Priyadharshini2419/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
