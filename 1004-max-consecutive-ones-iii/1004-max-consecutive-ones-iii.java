@@ -12,7 +12,7 @@ class Solution {
                 int len=r-l+1;
                 maxi=Math.max(len,maxi);
             }
-            while(zero>k){
+            if(zero>k){
                 if(nums[l]==0){
                     zero--;
                 }
