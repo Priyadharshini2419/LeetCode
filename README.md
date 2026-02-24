@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Priyadharshini2419/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyadharshini2419/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Priyadharshini2419/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0415-add-strings) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Priyadharshini2419/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Priyadharshini2419/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyadharshini2419/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyadharshini2419/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Priyadharshini2419/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
 | ------- |
