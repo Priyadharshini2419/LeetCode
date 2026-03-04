@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyadharshini2419/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyadharshini2419/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Priyadharshini2419/LeetCode/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyadharshini2419/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Priyadharshini2419/LeetCode/tree/master/0383-ransom-note) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyadharshini2419/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Priyadharshini2419/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Priyadharshini2419/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Priyadharshini2419/LeetCode/tree/master/0125-valid-palindrome) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Priyadharshini2419/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/0415-add-strings) |
