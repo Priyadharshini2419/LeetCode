@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Priyadharshini2419/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyadharshini2419/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Priyadharshini2419/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyadharshini2419/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0376-wiggle-subsequence](https://github.com/Priyadharshini2419/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Priyadharshini2419/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Priyadharshini2419/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Priyadharshini2419/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 <!---LeetCode Topics End-->
