@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Priyadharshini2419/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Priyadharshini2419/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyadharshini2419/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyadharshini2419/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Priyadharshini2419/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyadharshini2419/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Priyadharshini2419/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyadharshini2419/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
