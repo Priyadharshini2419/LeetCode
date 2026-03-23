@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Priyadharshini2419/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Priyadharshini2419/LeetCode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Priyadharshini2419/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyadharshini2419/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Priyadharshini2419/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyadharshini2419/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Priyadharshini2419/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyadharshini2419/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyadharshini2419/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyadharshini2419/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -237,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Priyadharshini2419/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Priyadharshini2419/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 <!---LeetCode Topics End-->
